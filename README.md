@@ -1,0 +1,2 @@
+# net_address_change_bat_file-
+用来修改无线网卡的地址的windows的bat文件，实现自动获取制定网络连接的ip地址，或者指定ipv4地址、子网掩码、网关，以及dns地址
